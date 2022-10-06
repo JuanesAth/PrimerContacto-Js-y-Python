@@ -1,11 +1,13 @@
 # JavaScript y Python
-  <p>Contacto inical con el lenguaje.</p>
-  <p>Ejemplos basicos.</p>
-  <p>¿Que se debe saber?<p>
+
 
 <h1">Hola 👋, Soy Juan Esteban Atehortúa</h1>
 <h3">Estudiante de Ingeniería Informatica</h3>
 <h3">Politécnico Colombiano Jaime Isaza Cadavid</h3>
+
+  <p>Contacto inical con el lenguaje.</p>
+  <p>Ejemplos basicos.</p>
+  <p>¿Que se debe saber?<p>
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
