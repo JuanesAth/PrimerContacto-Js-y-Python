@@ -1,7 +1,7 @@
 # JavaScript y Python
 
 
-<p align="left"> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwallpaper%2Fcomments%2Fjdjj6w%2Fminimal_dark_coding_wallpaper_3840_x_2160%2F&psig=AOvVaw0DWEgaML393sWaUX18a4R2&ust=1665186364405000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLipheLkzPoCFQAAAAAdAAAAABA6)" alt="javascript" width="200" height="100"/></a></p>
+<p align="left"> <a> <img url="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwallpaper%2Fcomments%2Fjdjj6w%2Fminimal_dark_coding_wallpaper_3840_x_2160%2F&psig=AOvVaw0DWEgaML393sWaUX18a4R2&ust=1665186364405000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLipheLkzPoCFQAAAAAdAAAAABA6)" alt="javascript" width="200" height="100"/></a></p>
 
 <h2>Hola 👋, Soy Juan Esteban Atehortúa</h2>
 <h3>Estudiante de Ingeniería Informatica</h3>
