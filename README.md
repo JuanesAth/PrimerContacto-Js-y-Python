@@ -1,9 +1,9 @@
 # JavaScript y Python
 
 
-<h1">Hola 👋, Soy Juan Esteban Atehortúa</h1>
-<h3">Estudiante de Ingeniería Informatica</h3>
-<h3">Politécnico Colombiano Jaime Isaza Cadavid</h3>
+<h1>Hola 👋, Soy Juan Esteban Atehortúa</h1>
+<h3>Estudiante de Ingeniería Informatica</h3>
+<h3>Politécnico Colombiano Jaime Isaza Cadavid</h3>
 
   <p>Contacto inical con el lenguaje.</p>
   <p>Ejemplos basicos.</p>
