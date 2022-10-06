@@ -1,11 +1,11 @@
 # JavaScript y Python
-  >> Contacto inical con el lenguaje.
-  >> Ejemplos basicos
-  >> ¿Que se debe saber?
+  <p>Contacto inical con el lenguaje.</p>
+  <p>Ejemplos basicos.</p>
+  <p>¿Que se debe saber?<p>
 
-<h1 align="center">Hola 👋, Soy Juan Esteban Atehortúa</h1>
-<h3 align="center">Estudiante de Ingeniería Informatica</h3>
-<h3 align="center">Politécnico Colombiano Jaime Isaza Cadavid</h3>
+<h1">Hola 👋, Soy Juan Esteban Atehortúa</h1>
+<h3">Estudiante de Ingeniería Informatica</h3>
+<h3">Politécnico Colombiano Jaime Isaza Cadavid</h3>
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
