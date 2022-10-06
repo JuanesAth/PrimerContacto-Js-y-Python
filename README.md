@@ -1,4 +1,4 @@
 # JavaScript y Python
-  Contacto inical con el lenguaje;
-  Ejemplos basicos
+  >> Contacto inical con el lenguaje;
+  >> Ejemplos basicos
   >> ¿Que se debe saber?
