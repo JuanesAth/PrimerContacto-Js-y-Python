@@ -1,6 +1,6 @@
 # JavaScript y Python
 
-<h1>Hola 👋, Soy Juan Esteban Atehortúa</h1>
+<h2>Hola 👋, Soy Juan Esteban Atehortúa</h2>
 <h3>Estudiante de Ingeniería Informatica</h3>
 <h3>Politécnico Colombiano Jaime Isaza Cadavid</h3>
 
