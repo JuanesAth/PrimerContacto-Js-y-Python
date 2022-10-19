@@ -331,9 +331,79 @@
         ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
         function random() {
             {
-            document.getElementById("titulo").innerHTML = "Matematicas";
+            document.getElementById("titulo").innerHTML = "Random";
             }
             a = Math.floor(Math.random() * (0 - 100)) + 100;
             document.getElementById("demo5").innerHTML = a;
         }
 
+        /*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        Si la hora es inferior a las 10:00, cree un saludo de "Buenos días", si no, pero la hora es 
+        inferior a las 20:00, cree un saludo de "Buenos días", de lo contrario, un "Buenas noches":
+        ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+        function elseIf() {
+            {
+            document.getElementById("titulo").innerHTML = "Sentencia else if";
+            }
+            const time = new Date().getHours();
+            let greeting;
+            if (time < 10) {
+            greeting = "Good morning";
+            } else if (time < 20) {
+            greeting = "Good day";
+            } else {
+            greeting = "Good evening";
+            }
+            document.getElementById("demo").innerHTML = greeting;
+        }
+
+        /*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        Este ejemplo usa el número del día de la semana para calcular el nombre del día de la semana.
+        ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+        function jsSwitch() {
+            {
+            document.getElementById("titulo").innerHTML = "Switch";
+            }
+            let day;
+            switch (new Date().getDay()) {
+            case 0:
+            day = "Sunday";
+            break;
+            case 1:
+            day = "Monday";
+            break;
+            case 2:
+            day = "Tuesday";
+            break;
+            case 3:
+            day = "Wednesday";
+            break;
+            case 4:
+             day = "Thursday";
+            break;
+            case 5:
+            day = "Friday";
+            break;
+            case  6:
+            day = "Saturday";
+            }
+            document.getElementById("demo").innerHTML = "Hoy es " + day;
+        }
+
+        /*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        En este ejemplo, escribimos mal "alerta" como "adddlert" para producir un error deliberadamente
+        ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+        function tryCatch() {
+            {
+            document.getElementById("titulo").innerHTML = "Switch";
+            }
+            
+            try {
+                adddlert("Welcome guest!");
+              }
+              catch(err) {
+                document.getElementById("demo").innerHTML = err.message;
+              }
+        }

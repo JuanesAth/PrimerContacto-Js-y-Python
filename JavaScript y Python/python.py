@@ -180,5 +180,33 @@ print(len(a))
 txt = "The best things in life are free!"	#Para verificar si una determinada frase o carácter está presente en una cadena, podemos usar la palabra clave in
 print("free" in txt)				#Lanzaa la respuesta booleana	True or False
 
+#Crear e imprimir un diccionario-------------------------------------------------------------------------------------
+
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(thisdict)
+
+#Python If ... Else--------------------------------------------------------------------------------------------------
+
+a = 200
+b = 33
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+else:
+  print("a is greater than b")
+
+#Continue------------------------------------------------------------------------------------------------------------
+
+i = 0
+while i < 6:
+  i += 1
+  if i == 3:
+    continue
+  print(i)
 
 #https://www.w3schools.com/
